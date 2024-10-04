@@ -19,7 +19,7 @@ See the details in the provided tooltips.
 
 URL: https://nepa1234software.github.io/LearnTableViewDelegateReuseQML-WebAssembly/appLearnTableViewDelegateReuseQML.html
 
-## Codeor te
+## Code
 
 Repo URL: https://github.com/NePa1234Software/LearnTableViewDelegateReuseQML
 
