@@ -17,7 +17,7 @@ See the details in the provided tooltips.
 
 ## Live Online
 
-URL: https://nepa1234software.github.io/LearnTableViewDelegateReuseQML-WebAssembly/appLearnTableViewDelegateReuseQML.html
+URL: https://nepa1234software.github.io/LearnTableViewDelegateReuseQML-WebAssembly/appLearnTableViewPoolDemoQML.html
 
 ## Code
 
